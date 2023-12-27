@@ -5,7 +5,7 @@ class Person(models.Model):
 
     iin = models.CharField(max_length=12, unique=True)
     created = models.DateTimeField(auto_now_add=True)
-
+    
     class Meta:
         ordering = ['created']
 
