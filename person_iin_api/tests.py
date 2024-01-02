@@ -8,3 +8,6 @@ from django.test import TestCase
 
 def my_branch():
     pass
+
+def my_branch2():
+    pass
