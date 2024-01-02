@@ -11,3 +11,6 @@ def my_branch():
 
 def my_branch2():
     pass
+
+def my_branch3():
+    pass
