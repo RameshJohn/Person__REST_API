@@ -5,3 +5,6 @@ from django.test import TestCase
 #Todays commit
 
 #My new branch
+
+def my_branch():
+    pass
